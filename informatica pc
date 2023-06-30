@@ -1,0 +1,46 @@
+https://sdo.corp.tander.ru/magnitube/#/video/395
+[ПО] Обучение Informatica PowerCenter 1
+- Designer - Подключение к серверу
+
+https://sdo.corp.tander.ru/magnitube/#/video/396
+[ПО] Обучение Informatica PowerCenter 2
+- Designer - Создание нового источника (Sources > Create)
+- Designer - Выбор целевой базы (Targets > Import from Database, Owner name - это имя базы)
+- Designer - Создание маппинга (Mappings > Create, затем перенос источника и таргета на маппинг)
+- Workflow Manager - Создане потока (WorkFlows > Create, затем перенос маппинга в поток)
+
+https://sdo.corp.tander.ru/magnitube/#/video/397
+[ПО] Обучение Informatica PowerCenter 3
+- Workflow Manager - Запуск потока (WorkFlows > Start Workflow)
+- Monitor - В древе находим свой поток и смотрим статус (Просмотр ошибок - правой кнопкой Run Properties или Session Log)
+- Workflow Manager - Выбор базы таргета
+- Designer - Правка даты в источнике
+- Workflow Manager - Выбор кодировки
+
+https://sdo.corp.tander.ru/magnitube/#/video/398
+[ПО] Обучение Informatica PowerCenter 4
+- Designer - Шифрование данных в столбце
+- Workflow Manager - Truncate target table (очистка таблицы перед загрузкой)
+- Workflow Manager - PreSQL/PostSQL (действия в целевой БД до/после загрузки)
+- Designer - использование фильтров перед загрузкой (аналог WHERE)
+
+https://sdo.corp.tander.ru/magnitube/#/video/399
+[ПО] Обучение Informatica PowerCenter 5
+- Workflow Manager - (20я минута) создание бэкапа источника с помощью баша
+- Workflow Manager - уведомление email (не использовать кириллицу в теме)
+
+https://sdo.corp.tander.ru/magnitube/#/video/400
+[ПО] Обучение Informatica PowerCenter 6
+- Workflow Manager - (08:00) переменные
+- Workflow Manager - таймер
+- Workflow Manager - сагрегировать несколько задач (по аналогии 2 селекта в 1 процедуру)
+
+https://sdo.corp.tander.ru/magnitube/#/video/401
+[ПО] Обучение Informatica PowerCenter 7
+- Workflow Manager - запуск 2й попытки загрузки
+- Workflow Manager - merge: lookup+router
+
+https://sdo.corp.tander.ru/magnitube/#/video/402
+[ПО] Обучение Informatica PowerCenter 8
+- Workflow Manager - Планировщик заданий (Scheduler)
+- Workflow Manager - Сохранить (check-in)
